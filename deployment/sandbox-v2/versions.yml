@@ -57,7 +57,7 @@ versions:
       group4:
         'regproc-stage-group-4': 'technoforte2023/registration-processor-stage-group-4:1.2.0.1'
       group5:
-        'regproc-stage-group-5': 'mosipqa/registration-processor-stage-group-5:1.2.0.1'
+        'regproc-stage-group-5': 'technoforte2023/registration-processor-stage-group-5:1.2.0.1'
       group6:
         'regproc-stage-group-6': 'technoforte2023/registration-processor-stage-group-6:1.2.0.1'
       group7:
