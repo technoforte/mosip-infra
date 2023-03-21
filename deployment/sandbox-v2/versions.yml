@@ -44,7 +44,7 @@ versions:
 
     registration_client:
       downloader:
-        'reg-client-downloader': 'mosipqa/registration-client:1.2.0.1'
+        'reg-client-downloader': 'technoforte2023/registration-client:1.2.0.1'
       version: '1.2.0.1-SNAPSHOT'
 
     regproc:
@@ -131,15 +131,15 @@ versions:
 
     packetmanager:
       service:
-        'packetmanager-service': 'mosipqa/commons-packet-service:1.2.0.1'
+        'packetmanager-service': 'technoforte2023/commons-packet-service:1.2.0.1'
 
     datashare:
       service:
-        'datashare-service': 'mosipqa/data-share-service:1.2.0.1'
+        'datashare-service': 'technoforte2023/data-share-service:1.2.0.1'
 
     print:
       service:
-        'print-service': 'mosipqa/print:1.2.0.1'
+        'print-service': 'technoforte2023/print:1.2.0.1'
 
     websub:
       service:
@@ -150,11 +150,11 @@ versions:
     mock:
       abis:
         # Please don't change this image
-        'mock-abis': 'mosipqa/mock-abis:develop'
+        'mock-abis': 'technoforte2023/mock-abis:develop'
       mv:
-        'mock-mv': 'mosipqa/mock-mv:1.1.5'
+        'mock-mv': 'technoforte2023/mock-mv:1.1.5'
       biosdk:
-        'mock-biosdk-service': 'mosipqa/biosdk-server:1.2.0.1'
+        'mock-biosdk-service': 'technoforte2023/biosdk-server:1.2.0.1'
 
     artifactory:
       service:
@@ -162,16 +162,16 @@ versions:
 
     keycloak:
       service:
-        'keycloak': 'mosipqa/mosip-keycloak:1.2.0.1'
+        'keycloak': 'technoforte2023/mosip-keycloak:1.2.0.1'
 
     mosip_file_server:
       service:
-        'mosip_file_server': 'mosipqa/mosip-file-server:1.2.0.1'
+        'mosip_file_server': 'technoforte2023/mosip-file-server:1.2.0.1'
 
     tusd:
       service:
-        'tusd-server': 'mosipqa/tusd-server:1.2.0.1'
+        'tusd-server': 'technoforte2023/tusd-server:1.2.0.1'
 
     resident_app_server:
       service:
-        'resident-app-server': 'mosipqa/mimoto:develop'
+        'resident-app-server': 'technoforte2023/mimoto:develop'
